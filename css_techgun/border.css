@@ -1,0 +1,28 @@
+a{
+    text-decoration: none;
+}
+
+a:link{
+    color:yellowgreen;
+
+}
+a:visited{
+    color:black;
+
+}
+a:hover{
+    color:orange;
+
+}
+a:active{
+    color:red;
+
+}
+
+h1{
+   font-weight:100 ;
+}
+p{
+   font-variant: small-caps;
+   font-size: 30px;
+}

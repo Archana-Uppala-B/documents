@@ -1,0 +1,24 @@
+
+Entered detail is:Name: Archana
+Id: 1867
+Salary: 10000000.000000
+
+Entered detail is:Name: Bhaskar
+Id: 1888
+Salary: 9000000.000000
+
+Entered detail is:Name: Keerthi
+Id: 1876
+Salary: 890000.000000
+
+Entered detail is:Name: keerthi
+Id: 1876
+Salary: 890000.000000
+
+Entered detail is:Name: Bhaskar
+Id: 1888
+Salary: 900000.000000
+
+Entered detail is:Name: Madhavi
+Id: 1777
+Salary: 900000.000000

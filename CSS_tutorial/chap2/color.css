@@ -1,0 +1,11 @@
+.red{
+    background:rgba(163, 53, 130,0);
+
+}
+.green{
+    background:green;
+}
+*{
+    margin: 0;
+    padding: 0;
+}

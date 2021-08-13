@@ -1,0 +1,29 @@
+/* this is a  comment*/
+
+/* this
+ is a multiple line 
+ comment*/
+
+ /* header css start*/
+ h1{
+    color:red;  /* color blue*/
+}
+
+#h{
+    color:blue;
+}
+
+.green-text{
+    color:green;  
+} 
+
+#h{
+    color:purple;
+}
+.underline-h{
+    text-decoration: underline
+}
+
+/* header css end*/
+
+/* to use the old codes in css*/ 

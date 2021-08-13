@@ -1,0 +1,16 @@
+#bg{
+    background-color:yellow;
+}
+
+#body-background{
+    background-color: rgb(147, 226, 43);
+}
+
+#bg{
+    background-image:url(bg1.jpg);
+    background-repeat:no-repeat;
+    background-position:5% 10%;
+    background-size:contain;
+    background-attachment: scroll;
+    /* background:#ffffff url("bg1.jpg") no-repeat fixed 5% 10%; */
+}
